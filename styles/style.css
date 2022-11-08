@@ -176,7 +176,7 @@
   margin: 0;
   margin-bottom: 20px;
  }
-.table__cell .table__text:last-of-type{
+.table__text:last-of-type{
   margin-bottom: 0;
 }
 .feynman{
